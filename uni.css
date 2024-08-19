@@ -1,0 +1,29 @@
+h1 { color: #C49509;
+ margin-left: 5px;
+ font-family: "IBM Plex Sans", Helvetica, sans-serif;}
+h2 {margin-left: 25px;
+ color: #C49509;
+ font-family: "IBM Plex Sans", Helvetica, sans-serif;
+ margin-bottom: 3px; }
+h3 {margin-left: 45px;
+ color: #C49509;
+ font-family: "IBM Plex Sans", Helvetica, sans-serif;
+ margin-bottom: 3px; }
+h4 {margin-left: 65px;
+ color: #C49509;
+ font-family: "IBM Plex Sans", Helvetica, sans-serif;
+ margin-bottom: 3px; }
+body { color: #BFBFBF; 
+ margin-left: 25px;
+ background-color: #201F1F;
+ font-size: 11pt;
+ font-family: "IBM Plex Sans", Helvetica, sans-serif; }
+table { border: 2px solid #808080;
+ border-top-style: solid;
+ border-left-style: solid;
+ border-right-style: solid;
+ border-bottom-style: solid;
+ border-top-width: 2px; 
+ border-bottom-width: 2px; 
+ border-left-width: 2px; 
+ border-right-width: 2px; }
